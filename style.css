@@ -3,3 +3,7 @@ but if we use inline style and external style at the same time at that time inli
 h1{ 
     color:green;
 }
+
+p{
+    color:orchid;
+}
