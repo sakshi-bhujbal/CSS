@@ -1,9 +1,15 @@
 /* external style sheet
 but if we use inline style and external style at the same time at that time inline style is given the priority*/
 h1{ 
-    color:green;
+    color:rgb(81, 5, 81);
 }
 
 p{
     color:orchid;
+}
+body{
+    background-color: rgb(223, 216, 218);
+}
+button{
+    background-color: beige;
 }
