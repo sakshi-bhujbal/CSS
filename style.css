@@ -1,0 +1,5 @@
+/* external style sheet
+but if we use inline style and external style at the same time at that time inline style is given the priority*/
+h1{ 
+    color:green;
+}
