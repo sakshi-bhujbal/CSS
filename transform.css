@@ -1,0 +1,22 @@
+div{
+    height:100px;
+    width:100px;
+    background-color: aqua;
+    transition-duration: 2s;
+    border-width: 2px;
+    border-color: black;
+    /* display:flex;
+    display:inline-block; */
+    
+    /* flex-direction:column; */
+}
+
+.trans:hover{
+    transform:translate(100px);
+}
+#container{
+    display:flex;
+    height:200px;
+    width:400px;
+    background-color: antiquewhite;
+}
